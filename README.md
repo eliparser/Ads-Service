@@ -45,9 +45,9 @@ enabling sellers to create campaigns for promoting their products. It includes A
 - Follow API specifications for request formats when creating products and campaigns.
 - Verify that the provided endpoints respond correctly and with expected data.
 
-## Authors
+## Author
 
-- [eliParser]
+- eliParser
 
 ---
 
